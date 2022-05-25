@@ -9,6 +9,8 @@ Flask versions of `oseti`.
 
 - `$ python myflask.py`
 
+- `https://oseti.herokuapp.com/np?text=このカレーはとても美味しい`
+
 
 ## References
 
